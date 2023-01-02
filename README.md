@@ -32,8 +32,8 @@ Users should be able to do the following:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [Advice Generator App](https://github.com/Victor-Okpukpan/advice-generator-app)
+- Live Site URL: [app-generator-app.vercel.app](https://advice-generator-app-ebon-seven.vercel.app/)
 
 ## My process
 
