@@ -33,7 +33,7 @@ Users should be able to do the following:
 ### Links
 
 - Solution URL: [Advice Generator App](https://github.com/Victor-Okpukpan/advice-generator-app)
-- Live Site URL: [app-generator-app.vercel.app](https://advice-generator-app-ebon-seven.vercel.app/)
+- Live Site URL: [app-generator-app.vercel.app](https://advice-generator-app-drab.vercel.app/)
 
 ## My process
 
